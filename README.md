@@ -5,9 +5,9 @@
 ![C++](https://img.shields.io/badge/C++-Framework-00599C?logo=cplusplus&logoColor=white)
 ![Embedded](https://img.shields.io/badge/Target-ATmega328P-006600)
 
-## The Hook
+## About
 
-Embedded firmware prototype for a physical Jarvis-style interaction: a momentary button on digital pin 2 toggles the onboard LED, establishing the I/O foundation for future voice or sensor integrations on Arduino Uno hardware.
+Project Jarvis is an embedded firmware prototype on Arduino Uno. A momentary button on digital pin 2 toggles the onboard LED, providing a minimal I/O baseline for future voice or sensor integrations on ATmega328P hardware.
 
 ## System Architecture
 
